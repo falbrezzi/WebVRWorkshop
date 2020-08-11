@@ -11,7 +11,7 @@ To get started, launch the following JupyterHub and login.
 
 ## UCLA participants (multi-factor authentication required):
 
-* <a href="https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIDREsandbox%2Fgisworkshop&urlpath=tree%2Fgisworkshop%2F&branch=master" target="_blank">Launch JupyterHub</a> (choose UCLA)
+* <a href="https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Ffalbrezzi%2FWebVRWorkshop.git&urlpath=lab%2Ftree%2FWebVRWorkshop%2F&branch=master" target="_blank">Launch JupyterHub</a> (choose UCLA)
 
 ## Non UCLA participants (may not be as reliable and is not supported by IDRE):
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IDREsandbox/gisworkshop/master)
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/falbrezzi/WebVRWorkshop.git/master)
