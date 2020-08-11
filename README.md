@@ -1,4 +1,4 @@
-# WebVRWorkshop
+# Intro to WebXR Workshop
 
 We are increasingly sharing our data and research in virtual environments. WebVR (or WebXR as it’s now known) is an open standard that allows 3D / virtual reality (VR) experiences to be produced through your browser. It also aims to make your immersive data platform-agnostic, so it will be portable to whatever device you have. In this workshop, you will be introduced to ways to graph three dimensional data. You will also be shown how to bring that 3D graph into a browser environment so that your work can be shared through the Web.In the hands-on segment of the workshop, we will be using the following tools:
 * A-Frame
